@@ -68,4 +68,4 @@ As a result, conclusions should be interpreted as pattern-based insights rather 
 
 ## Project Notebook
 
-https://www.kaggle.com/code/amrkabbary/social-media-addiction-vs-productivity-eda-ml?scriptVersionId=313641046
+https://www.kaggle.com/code/amrkabbary/social-media-addiction-vs-productivity-eda-ml
